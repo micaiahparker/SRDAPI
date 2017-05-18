@@ -6,7 +6,7 @@ The goal is the create an API representation of the [SRD](https://media.wizards.
 # Usage
 ```bash
 $ git clone https://github.com/micaiahparker/SRDAPI.git
-$ cd srdapi
+$ cd srd_api
 $ pip install -r requirements.txt
 $ cd api
 $ hug -f app.py
