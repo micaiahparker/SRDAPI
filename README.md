@@ -5,4 +5,5 @@ The goal is the create an API representation of the [SRD](https://media.wizards.
 
 # Usage
 `cd api`
+
 `hug -f app.py`
